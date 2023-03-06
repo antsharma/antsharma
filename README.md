@@ -1,16 +1,23 @@
-### Hi there 👋
+### <div align="center"><h2>Hello Stalkers</h2> </div>
 
-<!--
-**antsharma/antsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=antsharma&rank=SECRET,A,C,AAA&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
-Here are some ideas to get you started:
+ <h1>📊 My Stats:</h1>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=antsharma&show_icons=true&theme=radical" />
+ <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Connect with me</h1>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anant._.sharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-sharma-9428a1223) 
+
+<h1>Technologies currently under use<h1>
+
+  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+  
+ 
+<div style="display: flex; flex-direction: row; text-align: center;" align="center">
+  <img class="img" src="https://komarev.com/ghpvc/?username=unreasonable2003&color=green" />
+</div>
